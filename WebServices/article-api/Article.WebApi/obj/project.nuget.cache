@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "dgSpecHash": "baTeuifhC2pgMhvB6k6jHeuM8FhgaEZ62b5mG5eRxwyaj5HpdEmhXli/P671nP6RAAOzc5pwH/Jy8LBqbSPtmQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\danye\\Desktop\\article store\\article-store-main\\article-store-main\\src\\article-api\\Article.WebApi\\Article.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danye\\.nuget\\packages\\microsoft.aspnetcore.odata\\8.0.7\\microsoft.aspnetcore.odata.8.0.7.nupkg.sha512",
+    "C:\\Users\\danye\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\danye\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\danye\\.nuget\\packages\\microsoft.odata.core\\7.9.4\\microsoft.odata.core.7.9.4.nupkg.sha512",
+    "C:\\Users\\danye\\.nuget\\packages\\microsoft.odata.edm\\7.9.4\\microsoft.odata.edm.7.9.4.nupkg.sha512",
+    "C:\\Users\\danye\\.nuget\\packages\\microsoft.odata.modelbuilder\\1.0.8\\microsoft.odata.modelbuilder.1.0.8.nupkg.sha512",
+    "C:\\Users\\danye\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\danye\\.nuget\\packages\\microsoft.spatial\\7.9.4\\microsoft.spatial.7.9.4.nupkg.sha512",
+    "C:\\Users\\danye\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\danye\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\danye\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\danye\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\danye\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512",
+    "C:\\Users\\danye\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\danye\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\danye\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\danye\\Desktop\\article store\\article-store-main\\article-store-main\\src\\shared\\Shared.Api\\Shared.Api.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\danye\\Desktop\\article store\\article-store-main\\article-store-main\\src\\shared\\Shared.Api\\Shared.Api.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\danye\\Desktop\\article store\\article-store-main\\article-store-main\\src\\article-api\\Article.Application\\Article.Application.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\danye\\Desktop\\article store\\article-store-main\\article-store-main\\src\\article-api\\Article.Application\\Article.Application.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

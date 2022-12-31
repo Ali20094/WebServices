@@ -1,0 +1,5 @@
+C:\Users\danye\Desktop\article store\article-store-main\article-store-main\src\article-api\Article.Infrastructure\obj\Debug\net5.0\Article.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\danye\Desktop\article store\article-store-main\article-store-main\src\article-api\Article.Infrastructure\obj\Debug\net5.0\Article.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danye\Desktop\article store\article-store-main\article-store-main\src\article-api\Article.Infrastructure\obj\Debug\net5.0\Article.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\danye\Desktop\article store\article-store-main\article-store-main\src\article-api\Article.Infrastructure\obj\Debug\net5.0\Article.Infrastructure.AssemblyInfo.cs
+C:\Users\danye\Desktop\article store\article-store-main\article-store-main\src\article-api\Article.Infrastructure\obj\Debug\net5.0\Article.Infrastructure.csproj.CoreCompileInputs.cache

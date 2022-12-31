@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "dshLS7f4cO3wkOHm3IT7FC315wfXzADJYD9DFbdht1Lx6ett7zkZR+69h+5dl3pWVjXYE4jnqH04liLUME5PUA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\mustf\\Desktop\\Ali\\New folder (2)\\src\\review-api\\Review.Domain\\Review.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\mustf\\Desktop\\Ali\\New folder (2)\\src\\shared\\Shared.Domain\\Shared.Domain.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\mustf\\Desktop\\Ali\\New folder (2)\\src\\shared\\Shared.Domain\\Shared.Domain.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
